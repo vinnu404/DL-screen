@@ -10,7 +10,7 @@ const Page4 = () => {
                 Whether you develop or operate, we have a path for you.
             </div>
             <div className="flex flex-row">
-                <div style={{height:350,width:300}} className="bg-white rounded-lg ml-64 mt-8">
+                <div style={{height:350,width:300}} className="bg-white rounded-lg ml-64 mt-8 border-b-2 border-green-600 border-b-8">
                     <img className="h-1/2" src="assests/grb.png" alt="logo"/>
                     <img className="h-28 ml-16 -mt-10" src="assests/da.png" alt="logo"/>
                     <p style={{color:"#505050"}} className="text-xl font-semibold ">DevOps Architect</p>
